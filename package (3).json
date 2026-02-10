@@ -1,0 +1,12 @@
+{
+  "name": "eliana-hub",
+  "version": "1.0.0",
+  "main": "hub-server.js",
+  "scripts": {
+    "start": "node hub-server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
